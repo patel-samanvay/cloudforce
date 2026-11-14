@@ -1,0 +1,53 @@
+{
+  "name": "CloudForce Dark",
+  "dataColors": [
+    "#38BDF8",
+    "#0284C7",
+    "#EF4444",
+    "#F59E0B",
+    "#10B981",
+    "#8B5CF6"
+  ],
+  "background": "#0F141C",
+  "foreground": "#E2E8F0",
+  "tableAccent": "#38BDF8",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#0F141C"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#161F2E"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#E2E8F0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
