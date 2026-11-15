@@ -9,6 +9,7 @@
 > **Interactive Threat Intelligence Platform:** A full-stack cybersecurity telemetry generator and visual analytics dashboard designed to model, detect, and analyze cloud authentication attack surfaces and high-velocity brute-force intrusions.
 
 Authors: V.Mouli (240031101631054) & Samanvay Patel (240031101631040)
+
 B.Tech CSE Sem-5 | SITAICS | Rashtriya Raksha University Gandhinagar
 
 🔗 **Live Interactive Application:** [https://cloudforce.streamlit.app](https://cloudforce.streamlit.app)
